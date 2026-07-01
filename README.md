@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Gladys! 👋
 
-<!--
-**gladysHinestroza/gladysHinestroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a former mathematics teacher transitioning into data analytics and applied statistics.
 
-Here are some ideas to get you started:
+## Skills
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+R
+
+Java
+
+SQL
+
+Statistical Analysis
+
+Machine Learning
+
+Data Visualization
+
+## Current Education
+M.S. in Applied Statistics
+
+## Featured Projects
+NYC Harbor Water Quality Analysis
+
+EV Battery Range Study
+
+Customer Classification using Machine Learning
+
+Design of Experiments Optimization
+
+## Contact
+gladysf895@gmail.com
+
+www.linkedin.com/in/gladys-hinestroza-aa10b4156
